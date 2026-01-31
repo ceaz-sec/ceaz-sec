@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Marcus 👋</h1>
+<h3 align="center">Security Researcher | Browser Extension Security | Privacy Engineering</h3>
 
-<!--
-**ceaz-sec/ceaz-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/ceaz-sec">
+    <img src="https://komarev.com/ghpvc/?username=ceaz-sec&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🔐 Security researcher specializing in **browser extension security**
+- 🧪 Focus areas: **data exfiltration, Shadow AI, privacy engineering**
+- 🧰 Strong in **Python**, **Go**, Linux, automation, and security tooling
+- 🚀 I build **MVP-style security projects** with real-world relevance
+- ✍️ Interested in blogging & technical writing on security topics
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black" />
+</p>
+
+### Security & Tooling
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/mitmproxy-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semgrep-2E77BC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 Browser Extension Security Toolkit
+- Static + dynamic analysis of Chrome extensions
+- Detects **data exfiltration**, unsafe permissions, Shadow AI usage
+- Uses Semgrep, custom scripts, and proxy analysis  
+👉 **Repo:** _link here_
+
+### 🧠 AI Monitoring Proxy (Squid)
+- Proxy-based inspection for AI & SaaS traffic
+- Detects sensitive data leakage in transit
+- Designed for **enterprise visibility**  
+👉 **Repo:** _link here_
+
+### 🕸️ Data Log Analyzer
+- Parses and analyzes logs for privacy & security risks
+- Focus on compliance and anomaly detection  
+👉 **Repo:** _link here_
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceaz-sec&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceaz-sec&layout=compact" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/marcus-mo486
+
+
