@@ -38,27 +38,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔍 Browser Extension Security Toolkit
-- Static + dynamic analysis of Chrome extensions
-- Detects **data exfiltration**, unsafe permissions, Shadow AI usage
-- Uses Semgrep, custom scripts, and proxy analysis  
-👉 **Repo:** _link here_
-
-### 🧠 AI Monitoring Proxy (Squid)
-- Proxy-based inspection for AI & SaaS traffic
-- Detects sensitive data leakage in transit
-- Designed for **enterprise visibility**  
-👉 **Repo:** _link here_
-
-### 🕸️ Data Log Analyzer
-- Parses and analyzes logs for privacy & security risks
-- Focus on compliance and anomaly detection  
-👉 **Repo:** _link here_
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
