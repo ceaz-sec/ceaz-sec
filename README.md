@@ -25,6 +25,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black" />
 </p>
 
@@ -38,20 +39,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceaz-sec&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceaz-sec&layout=compact" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/marcus-mo486
+- LinkedIn: www.linkedin.com/in/marcus-mo486
+- Ceaz Blog Site: www.ceaz.io
 
 
