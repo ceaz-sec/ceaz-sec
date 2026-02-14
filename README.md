@@ -13,9 +13,8 @@
 
 - 🔐 Security researcher specializing in **browser extension security**
 - 🧪 Focus areas: **data exfiltration, Shadow AI, Privacy Engineering and Zero Trust**
-- 🧰 Strong in **Python**, **Go**, Linux, automation, and security tooling
-- 🚀 I build **MVP-style security projects** with real-world relevance
-- ✍️ Interested in blogging & technical writing on security topics
+- 🧰 Strong in **Python**, **Bash**, Linux, automation, and security tooling
+- ✍️ Interested in blogging, engineering, security research & technical writing on security topics
 
 ---
 
