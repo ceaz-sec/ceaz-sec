@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marcus 👋</h1>
-<h3 align="center">Security Researcher | Browser Extension Security | Privacy Engineering</h3>
+<h3 align="center">Security Engineer | Browser Security | Privacy Engineering</h3>
 
 <p align="center">
   <a href="https://github.com/ceaz-sec">
@@ -12,7 +12,7 @@
 ## 🧠 About Me
 
 - 🔐 Security researcher specializing in **browser extension security**
-- 🧪 Focus areas: **data exfiltration, Shadow AI, Privacy Engineering and Zero Trust**
+- 🧪 Focus areas: **data exfiltration, Shadow AI, Security Engineering and Zero Trust**
 - 🧰 Strong in **Python**, **Bash**, Linux, automation, and security tooling
 - ✍️ Interested in blogging, engineering, security research & technical writing on security topics
 
