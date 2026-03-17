@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marcus 👋</h1>
-<h3 align="center">Security Engineer | Browser Security | Privacy Engineering</h3>
+<h3 align="center">Security Engineer | Browser Security | Endpoint Security | Linux Advocate</h3>
 
 <p align="center">
   <a href="https://github.com/ceaz-sec">
