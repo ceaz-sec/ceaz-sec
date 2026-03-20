@@ -1,5 +1,13 @@
-<h1 align="center">Hi, I'm Marcus 👋</h1>
-<h3 align="center">Security Engineer | Browser Security | Endpoint Security | Linux Advocate</h3>
+<div align="center">
+
+# 👋 Hey, I'm Marcus
+
+### Security Engineer · Browser Security · IAM & Zero Trust · Linux Advocate
+
+![Security Engineering](https://img.shields.io/badge/Security%20Engineering-111?style=for-the-badge&logo=shield&logoColor=white)
+![Browser Security](https://img.shields.io/badge/Browser%20Security-111?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-111?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=f6c915)
 
 <p align="center">
   <a href="https://github.com/ceaz-sec">
@@ -7,39 +15,82 @@
   </a>
 </p>
 
----
-
-## 🧠 About Me
-
-- 🔐 Security researcher specializing in **browser extension security**
-- 🧪 Focus areas: **data exfiltration, Shadow AI, Security Engineering and Zero Trust**
-- 🧰 Strong in **Python**, **Bash**, Linux, automation, and security tooling
-- ✍️ Interested in blogging, engineering, security research & technical writing on security topics
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🖤 What I Do
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-</p>
+I'm a **security engineer** with a research-first mindset and an eye for where trust breaks down.  
+My work lives at the intersection of **browser security, identity, and real-world threat behavior**.
 
-### Security & Tooling
-<p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/mitmproxy-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semgrep-2E77BC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+I focus on:
+
+- Auditing browser extensions for data exfiltration, supply chain risk, and Shadow AI exposure
+- Building detection that creates signal — not noise
+- Applying Zero Trust and IAM principles to reduce implicit trust in modern environments
+- Documenting findings in ways that are actionable, not just alarming
+
+Think:  
+**security engineer + browser attack surface + identity-aware defense**.
 
 ---
 
-## 📫 Connect With Me
+## 🧠 Core Strengths
 
-- LinkedIn: www.linkedin.com/in/marcus-mo486
-- Ceaz Blog Site: www.ceaz.io
+### **Browser & Extension Security**
 
+- Static and dynamic analysis of browser extensions (Manifest V2/V3)
+- JavaScript source review: `innerHTML` sinks, `postMessage` trust boundaries, prototype pollution
+- Shadow AI detection and policy enforcement via proxy interception
+- Supply chain risk assessment (permission creep, update hijacking, C2 callbacks)
+- CEAZ Framework: Context → Entry → Access → Zero-Trust Validation
 
+### **Security Engineering & Tooling**
+
+- Python and Bash scripting for security automation and triage
+- mitmproxy (containerized) for HTTPS traffic analysis and addon development
+- SAST triage pipelines and log sanitization tooling
+- SIEM/EDR: Wazuh, Jamf Protect, Tripwire and Sentinel One
+- Containerized lab environments with Docker on Linux
+
+### **Identity & Access Management**
+
+- IAM architecture: least privilege, role separation, lifecycle management
+- Microsoft identity stack (Entra ID, Conditional Access) — SC-300 in progress
+- Zero Trust integration patterns across cloud and endpoint environments
+- Session security: token hijacking mechanics, OAuth abuse, credential exposure vectors
+
+---
+
+## 🛠 Daily Tooling
+
+[![](https://skillicons.dev/icons?i=py,bash,js,powershell,go,lua&perline=8)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=linux,docker,git,github,neovim&perline=8)](https://skillicons.dev)
+
+---
+
+## 📌 Current Focus
+
+- Building resilient and secure infrastructure
+- Creating actionable detection — reducing noise from logs and alerts
+- IAM & Zero Trust integrations
+- AI security and Shadow AI visibility
+- Browser extension security research and auditing
+
+---
+
+## 📊 Activity Snapshot
+
+| | |
+|---|---|
+| ![Marcus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceaz-sec&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceaz-sec&layout=compact&theme=dark&hide_border=true) |
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/marcus-mo486)
+[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ceaz-sec)
+[![Blog](https://img.shields.io/badge/CEAZ%20Blog-111?style=for-the-badge&logo=rootme&logoColor=white)](https://www.ceaz.io)
