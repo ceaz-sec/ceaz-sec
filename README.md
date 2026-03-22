@@ -44,7 +44,6 @@ Think:
 - JavaScript source review: `innerHTML` sinks, `postMessage` trust boundaries, prototype pollution
 - Shadow AI detection and policy enforcement via proxy interception
 - Supply chain risk assessment (permission creep, update hijacking, C2 callbacks)
-- CEAZ Framework: Context → Entry → Access → Zero-Trust Validation
 
 ### **Security Engineering & Tooling**
 
