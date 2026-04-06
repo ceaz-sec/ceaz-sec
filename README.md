@@ -27,7 +27,7 @@ My work lives at the intersection of **browser security, identity, and real-worl
 I focus on:
 
 - Auditing browser extensions for data exfiltration, supply chain risk, and Shadow AI exposure
-- Building detection that creates signal — not noise
+- Building detection that creates a helpful signal instead of noise
 - Applying Zero Trust and IAM principles to reduce implicit trust in modern environments
 - Documenting findings in ways that are actionable, not just alarming
 
@@ -73,7 +73,7 @@ Think:
 ## 📌 Current Focus
 
 - Building resilient and secure infrastructure
-- Creating actionable detection — reducing noise from logs and alerts
+- Creating actionable detection, reducing noise from logs and alerts
 - IAM & Zero Trust integrations
 - AI security and Shadow AI visibility
 - Browser extension security research and auditing
