@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Marcus
 
-### Security Engineer · Browser Security · IAM & Zero Trust · Linux Advocate
+### Security Engineer · Browser Security · Zero Trust · Linux Advocate
 
 ![Security Engineering](https://img.shields.io/badge/Security%20Engineering-111?style=for-the-badge&logo=shield&logoColor=white)
 ![Browser Security](https://img.shields.io/badge/Browser%20Security-111?style=for-the-badge&logo=googlechrome&logoColor=white)
