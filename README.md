@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Marcus
+# Hey, I'm Marcus
 
 ### Security Engineer · Browser Security · Zero Trust · Linux Advocate
 
@@ -29,10 +29,6 @@ I focus on:
 - Auditing browser extensions for data exfiltration, supply chain risk, and Shadow AI exposure
 - Building detection that creates a helpful signal instead of noise
 - Applying Zero Trust and IAM principles to reduce implicit trust in modern environments
-- Documenting findings in ways that are actionable, not just alarming
-
-Think:  
-**security engineer + browser attack surface + identity-aware defense**.
 
 ---
 
