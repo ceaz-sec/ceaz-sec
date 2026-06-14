@@ -52,7 +52,6 @@ I focus on:
 ### **Identity & Access Management**
 
 - IAM architecture: least privilege, role separation, lifecycle management
-- Microsoft identity stack (Entra ID, Conditional Access) — SC-300 in progress
 - Zero Trust integration patterns across cloud and endpoint environments
 - Session security: token hijacking mechanics, OAuth abuse, credential exposure vectors
 
