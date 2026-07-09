@@ -2,26 +2,27 @@
 
 # Hey, I'm Marcus
 
-### Security Engineer · Software Supply Chain Security · Zero Trust · Cloud Security · Open Source Security
+### Security Engineer · Software Supply Chain Security · Zero Trust · Open Source Security
 
-![Security Engineering](https://img.shields.io/badge/Security%20Engineering-0D1117?style=for-the-badge&logo=shield&logoColor=white)
+<p align="center">
 
 ![Software Supply Chain](https://img.shields.io/badge/Software%20Supply%20Chain-0D1117?style=for-the-badge&logo=git&logoColor=white)
 
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-0D1117?style=for-the-badge&logo=cloudflare&logoColor=white)
-
 ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-0D1117?style=for-the-badge&logo=icloud&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-0D1117?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+![Open Source Security](https://img.shields.io/badge/Open%20Source%20Security-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</p>
 
 <p align="center">
   <a href="https://github.com/ceaz-sec">
     <img src="https://komarev.com/ghpvc/?username=ceaz-sec&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
-
-</div>
-
 ---
 
 ## 🖤 What I Do
