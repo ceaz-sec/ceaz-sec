@@ -1,8 +1,10 @@
+<div align="center">
+
 # Hey, I'm Marcus
 
 ### Security Engineer · Software Supply Chain Security · Zero Trust · Open Source Security
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Software%20Supply%20Chain-0D1117?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20Security-0D1117?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Zero%20Trust-0D1117?style=for-the-badge&logo=cloudflare&logoColor=white" />
@@ -10,12 +12,13 @@
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/ceaz-sec">
     <img src="https://komarev.com/ghpvc/?username=ceaz-sec&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
+</div>
 ---
 
 ## 🖤 What I Do
