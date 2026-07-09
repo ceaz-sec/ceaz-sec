@@ -4,23 +4,21 @@
 
 ### Security Engineer · Software Supply Chain Security · Zero Trust · Cloud Security · Open Source Security
 
-![Security Engineering](https://img.shields.io/badge/Security%20Engineering-111?style=for-the-badge\&logo=shield\&logoColor=white)
+![Security Engineering](https://img.shields.io/badge/Security%20Engineering-111?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-![Software Supply Chain](https://img.shields.io/badge/Software%20Supply%20Chain-111?style=for-the-badge\&logo=git\&logoColor=white)
+![Software Supply Chain](https://img.shields.io/badge/Software%20Supply%20Chain-111?style=for-the-badge&logo=git&logoColor=white)
 
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-111?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-111?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-111?style=for-the-badge\&logo=cloud\&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-111?style=for-the-badge&logo=icloud&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge\&logo=linux\&logoColor=f6c915)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=white)
 
 <p align="center">
   <a href="https://github.com/ceaz-sec">
-    <img src="https://komarev.com/ghpvc/?username=ceaz-sec&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=ceaz-sec&label=Profile%20Views&color=111&style=flat" alt="profile views" />
   </a>
 </p>
-
-</div>
 
 ---
 
