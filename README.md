@@ -72,20 +72,13 @@ I focus on:
 
 ## 🛠 Daily Tooling
 
-[![Tools](https://skillicons.dev/icons?i=linux,docker,git,github,go,python,kubernetes&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,docker,git,github,go,python,kubernetes&perline=8)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/anchore" width="45" height="45" alt="Syft / Grype">
-  <img src="https://cdn.simpleicons.org/sigstore" width="45" height="45" alt="Cosign">
-  <img src="https://cdn.simpleicons.org/opensourceinitiative" width="45" height="45" alt="OpenSSF">
-  <img src="https://cdn.simpleicons.org/forgejo" width="45" height="45" alt="Forgejo">
-  <img src="https://cdn.simpleicons.org/hashicorp" width="45" height="45" alt="Nomad">
-</p>
+### 🔐 Software Supply Chain Security
+Syft · Grype · OSV-Scanner · Cosign · OpenSSF
 
-**Supply Chain Security Stack**
-
-`Syft` · `Grype` · `OSV-Scanner` · `Cosign` · `OpenSSF` · `Forgejo` · `Nomad`
-
+### ⚙️ Platform Engineering
+Forgejo · Nomad
 ---
 
 ## 📌 Current Focus
