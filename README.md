@@ -111,4 +111,4 @@ I focus on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/marcus-mo486)
 [![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ceaz-sec)
-[![Blog](https://img.shields.io/badge/CEAZ%20Blog-111?style=for-the-badge&logo=rootme&logoColor=white)](https://www.ceaz.io)
+[![Blog](https://img.shields.io/badge/CEAZ%20Blog-111?style=for-the-badge&logo=rootme&logoColor=white)](https://dev.to/ceaz/)
