@@ -21,18 +21,26 @@
 
 ## 🖤 What I Do
 
-I'm a **security engineer** with a research-first mindset and an eye for where trust breaks down.  
-My work lives at the intersection of **browser security, identity, and real-world threat behavior**.
+I'm a **security engineer** with a research-first mindset and an eye for where trust breaks down.
+
+My work focuses on the intersection of **software supply chain security, secrets management, endpoint security, and real-world threat behavior**.
 
 I focus on:
 
-- Auditing browser extensions for data exfiltration, supply chain risk, and Shadow AI exposure
-- Building detection that creates a helpful signal instead of noise
-- Applying Zero Trust and IAM principles to reduce implicit trust in modern environments
+* Auditing software dependencies, packages, and container images for supply chain risks
+* Securing CI/CD pipelines by improving artifact integrity, build trust, and deployment security
+* Applying software supply chain security practices including **SLSA, SBOM management, zero-trust, hardened CI/CD, and continuous dependency monitoring**
 
 ---
 
 ## 🧠 Core Strengths
+
+### **Software Supply Chain Security**
+
+- Software dependency risk assessment: vulnerable packages, malicious dependencies, and dependency confusion
+- SBOM generation and analysis for open-source component visibility
+- CI/CD pipeline security: build integrity, artifact validation, and secure automation workflows
+- Supply chain attack detection: package hijacking, typosquatting, and compromised maintainers
 
 ### **Browser & Extension Security**
 
@@ -47,11 +55,11 @@ I focus on:
 - mitmproxy (containerized) for HTTPS traffic analysis and addon development
 - SAST triage pipelines and log sanitization tooling
 - SIEM/EDR: Wazuh, Jamf Protect, Tripwire and Sentinel One
-- Containerized lab environments with Docker on Linux
+- Containerized lab environments with Docker and Nomad on Linux
 
-### **Identity & Access Management**
+### **Secrets & Access Management**
 
-- IAM architecture: least privilege, role separation, lifecycle management
+- Secrets management: vault architecture, dynamic secrets, PKI automation, credential lifecycle management
 - Zero Trust integration patterns across cloud and endpoint environments
 - Session security: token hijacking mechanics, OAuth abuse, credential exposure vectors
 
@@ -68,6 +76,7 @@ I focus on:
 ## 📌 Current Focus
 
 - Building resilient and secure infrastructure
+- Hardening CI/CD Pipelines
 - Creating actionable detection, reducing noise from logs and alerts
 - IAM & Zero Trust integrations
 - AI security and Shadow AI visibility
