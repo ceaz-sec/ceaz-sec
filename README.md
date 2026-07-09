@@ -70,11 +70,17 @@ I focus on:
 
 ---
 
+---
+
 ## 🛠 Daily Tooling
 
-[![](https://skillicons.dev/icons?i=py,bash,go,js,powershell,lua\&perline=8)](https://skillicons.dev)
-
-[![](https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,neovim\&perline=8)](https://skillicons.dev)
+[![Syft](https://img.shields.io/badge/Syft-111?style=for-the-badge\&logo=anchore\&logoColor=white)](https://github.com/anchore/syft)
+[![Grype](https://img.shields.io/badge/Grype-111?style=for-the-badge\&logo=anchore\&logoColor=white)](https://github.com/anchore/grype)
+[![OSV--Scanner](https://img.shields.io/badge/OSV--Scanner-111?style=for-the-badge\&logo=google\&logoColor=white)](https://github.com/google/osv-scanner)
+[![Cosign](https://img.shields.io/badge/Cosign-111?style=for-the-badge\&logo=sigstore\&logoColor=white)](https://github.com/sigstore/cosign)
+[![OpenSSF](https://img.shields.io/badge/OpenSSF-111?style=for-the-badge\&logo=linuxfoundation\&logoColor=white)](https://openssf.org/)
+[![Forgejo](https://img.shields.io/badge/Forgejo-111?style=for-the-badge\&logo=git\&logoColor=white)](https://forgejo.org/)
+[![Nomad](https://img.shields.io/badge/Nomad-111?style=for-the-badge\&logo=hashicorp\&logoColor=white)](https://www.nomadproject.io/)
 
 ---
 
