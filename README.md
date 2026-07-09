@@ -70,26 +70,24 @@ I focus on:
 
 ---
 
-
 ## 🛠 Daily Tooling
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,go,python,kubernetes&perline=7" />
+[![](https://skillicons.dev/icons?i=linux,docker,git,github,go,python,kubernetes&perline=8)](https://skillicons.dev)
+
+<p align="left">
+  <img src="https://github.com/sigstore.png" width="45" height="45" alt="Cosign">
+  <img src="https://github.com/anchore.png" width="45" height="45" alt="Syft Grype">
+  <img src="https://github.com/google.png" width="45" height="45" alt="OSV Scanner">
+  <img src="https://github.com/ossf.png" width="45" height="45" alt="OpenSSF">
+  <img src="https://github.com/forgejo.png" width="45" height="45" alt="Forgejo">
+  <img src="https://github.com/hashicorp.png" width="45" height="45" alt="Nomad">
 </p>
 
-<!-- Cosign / Sigstore -->
-<img src="https://cdn.simpleicons.org/sigstore" width="45" height="45" alt="Cosign">
+**Software Supply Chain Security**  
+`Syft` · `Grype` · `OSV-Scanner` · `Cosign` · `OpenSSF`
 
-<!-- Syft / Grype / Anchore -->
-<img src="https://cdn.simpleicons.org/anchore" width="45" height="45" alt="Syft Grype">
-
-<!-- OSV-Scanner / Open Source Vulnerabilities -->
-<img src="https://cdn.simpleicons.org/google" width="45" height="45" alt="OSV Scanner">
-
-<p align="center">
-  <b>Platform Stack</b><br>
-  Forgejo • Nomad
-</p>
+**Platform Engineering**  
+`Forgejo` · `Nomad`
 
 ---
 
