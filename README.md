@@ -2,10 +2,7 @@
 
 # Hey, I'm Marcus
 
-
-
 ### Security Engineer · Software Supply Chain Security · Zero Trust · Cloud Security · Open Source Security
-
 
 ![Security Engineering](https://img.shields.io/badge/Security%20Engineering-111?style=for-the-badge\&logo=shield\&logoColor=white)
 
