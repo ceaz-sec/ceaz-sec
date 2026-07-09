@@ -1,16 +1,21 @@
-<div align="center">
-
 # Hey, I'm Marcus
 
 ### Security Engineer · Software Supply Chain Security · Zero Trust · Open Source Security
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Software%20Supply%20Chain-0D1117?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20Security-0D1117?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Zero%20Trust-0D1117?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source%20Security-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/ceaz-sec">
+    <img src="https://komarev.com/ghpvc/?username=ceaz-sec&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
+
 ---
 
 ## 🖤 What I Do
@@ -21,9 +26,9 @@ My work focuses on the intersection of **software supply chain security, secrets
 
 I focus on:
 
-* Auditing software dependencies, packages, and container images for supply chain risks
-* Securing CI/CD pipelines by improving artifact integrity, build trust, and deployment security
-* Applying software supply chain security practices including **SLSA, SBOM management, zero-trust, hardened CI/CD, and continuous dependency monitoring**
+- Auditing software dependencies, packages, and container images for supply chain risks
+- Securing CI/CD pipelines by improving artifact integrity, build trust, and deployment security
+- Applying software supply chain security practices including **SLSA, SBOM management, zero-trust CI/CD, hardened pipelines, and continuous dependency monitoring**
 
 ---
 
@@ -41,21 +46,21 @@ I focus on:
 - Static and dynamic analysis of browser extensions (Manifest V2/V3)
 - JavaScript source review: `innerHTML` sinks, `postMessage` trust boundaries, prototype pollution
 - Shadow AI detection and policy enforcement via proxy interception
-- Supply chain risk assessment (permission creep, update hijacking, C2 callbacks)
+- Supply chain risk assessment: permission creep, update hijacking, and C2 callbacks
 
 ### **Security Engineering & Tooling**
 
 - Python and Bash scripting for security automation and triage
 - mitmproxy (containerized) for HTTPS traffic analysis and addon development
 - SAST triage pipelines and log sanitization tooling
-- SIEM/EDR: Wazuh, Jamf Protect, Tripwire and Sentinel One
+- SIEM/EDR: Wazuh, Jamf Protect, Tripwire, and SentinelOne
 - Containerized lab environments with Docker and Nomad on Linux
 
 ### **Secrets & Access Management**
 
 - Secrets management: vault architecture, dynamic secrets, PKI automation, credential lifecycle management
 - Zero Trust integration patterns across cloud and endpoint environments
-- Session security: token hijacking mechanics, OAuth abuse, credential exposure vectors
+- Session security: token hijacking mechanics, OAuth abuse, and credential exposure vectors
 
 ---
 
@@ -82,14 +87,12 @@ I focus on:
 
 ## 📌 Current Focus
 
-* Software supply chain security: SBOMs, dependency analysis, artifact integrity, and SLSA practices
-* Securing CI/CD pipelines through automation, policy enforcement, and zero-trust workflows
-* Cloud security engineering: identity controls, secrets management, and infrastructure hardening
-* Open source security research: vulnerability analysis, package risks, and dependency trust
-* IAM and Zero Trust architecture: least privilege, role separation, and access lifecycle management
-* Browser and endpoint security research: extension auditing, data protection, and threat analysis
-
----
+- Software supply chain security: SBOMs, dependency analysis, artifact integrity, and SLSA practices
+- Securing CI/CD pipelines through automation, policy enforcement, and zero-trust workflows
+- Cloud security engineering: identity controls, secrets management, and infrastructure hardening
+- Open source security research: vulnerability analysis, package risks, and dependency trust
+- IAM and Zero Trust architecture: least privilege, role separation, and access lifecycle management
+- Browser and endpoint security research: extension auditing, data protection, and threat analysis
 
 ---
 
