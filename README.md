@@ -72,20 +72,22 @@ I focus on:
 
 ## 🛠 Daily Tooling
 
-[![](https://skillicons.dev/icons?i=py,bash,js,powershell,go,lua&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,bash,go,js,powershell,lua\&perline=8)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=linux,docker,git,github,neovim&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,neovim\&perline=8)](https://skillicons.dev)
 
 ---
 
 ## 📌 Current Focus
 
-- Building resilient and secure infrastructure
-- Hardening CI/CD Pipelines
-- Creating actionable detection, reducing noise from logs and alerts
-- IAM & Zero Trust integrations
-- AI security and Shadow AI visibility
-- Browser extension security research and auditing
+* Software supply chain security: SBOMs, dependency analysis, artifact integrity, and SLSA practices
+* Securing CI/CD pipelines through automation, policy enforcement, and zero-trust workflows
+* Cloud security engineering: identity controls, secrets management, and infrastructure hardening
+* Open source security research: vulnerability analysis, package risks, and dependency trust
+* IAM and Zero Trust architecture: least privilege, role separation, and access lifecycle management
+* Browser and endpoint security research: extension auditing, data protection, and threat analysis
+
+---
 
 ---
 
