@@ -77,10 +77,14 @@ I focus on:
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,go,python,kubernetes&perline=7" />
 </p>
 
-<p align="center">
-  <b>Security Stack</b><br>
-  Syft • Grype • OSV-Scanner • Cosign • OpenSSF
-</p>
+<!-- Cosign / Sigstore -->
+<img src="https://cdn.simpleicons.org/sigstore" width="45" height="45" alt="Cosign">
+
+<!-- Syft / Grype / Anchore -->
+<img src="https://cdn.simpleicons.org/anchore" width="45" height="45" alt="Syft Grype">
+
+<!-- OSV-Scanner / Open Source Vulnerabilities -->
+<img src="https://cdn.simpleicons.org/google" width="45" height="45" alt="OSV Scanner">
 
 <p align="center">
   <b>Platform Stack</b><br>
