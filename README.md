@@ -70,15 +70,23 @@ I focus on:
 
 ---
 
+
 ## 🛠 Daily Tooling
 
-[![](https://skillicons.dev/icons?i=linux,docker,git,github,go,python,kubernetes&perline=8)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,go,python,kubernetes&perline=7" />
+</p>
 
-### 🔐 Software Supply Chain Security
-Syft · Grype · OSV-Scanner · Cosign · OpenSSF
+<p align="center">
+  <b>Security Stack</b><br>
+  Syft • Grype • OSV-Scanner • Cosign • OpenSSF
+</p>
 
-### ⚙️ Platform Engineering
-Forgejo · Nomad
+<p align="center">
+  <b>Platform Stack</b><br>
+  Forgejo • Nomad
+</p>
+
 ---
 
 ## 📌 Current Focus
