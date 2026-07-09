@@ -102,9 +102,9 @@ I focus on:
 
 ## 📊 Activity Snapshot
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceaz-sec&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceaz-sec&layout=compact&theme=dark&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceaz-sec&show_icons=true&theme=github_dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceaz-sec&layout=compact&theme=github_dark&hide_border=true" height="180" />
 </p>
 
 ---
