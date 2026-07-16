@@ -22,7 +22,7 @@
 
 ---
 
-## 🖤 What I Do
+## What I do
 
 I'm a **security engineer** with a research-first mindset and an eye for where trust breaks down.
 
@@ -36,7 +36,7 @@ I focus on:
 
 ---
 
-## 🧠 Core Strengths
+## Core Strengths
 
 ### **Software Supply Chain Security**
 
@@ -68,7 +68,7 @@ I focus on:
 
 ---
 
-## 🛠 Daily Tooling
+## Daily Tooling
 
 [![](https://skillicons.dev/icons?i=linux,docker,git,github,go,python,kubernetes&perline=8)](https://skillicons.dev)
 
@@ -89,7 +89,7 @@ I focus on:
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
 - Software supply chain security: SBOMs, dependency analysis, artifact integrity, and SLSA practices
 - Securing CI/CD pipelines through automation, policy enforcement, and zero-trust workflows
