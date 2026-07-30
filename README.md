@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Marcus
+# Hi, I'm Marcus
 
 ### Security Engineer · Software Supply Chain Security · Zero Trust · Open Source Security
 
