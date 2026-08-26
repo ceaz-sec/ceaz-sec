@@ -55,7 +55,7 @@ I focus on:
 ### **Security Engineering & Tooling**
 
 - Python and Bash scripting for security automation and triage
-- mitmproxy (containerized) for HTTPS traffic analysis and addon development
+- mitmproxy (containerized) for HTTPS traffic analysis
 - SAST triage pipelines and log sanitization tooling
 - SIEM/EDR: Wazuh, Jamf Protect, Tripwire, and SentinelOne
 - Containerized lab environments with Docker and Nomad on Linux
@@ -85,7 +85,7 @@ I focus on:
 `Syft` · `Grype` · `OSV-Scanner` · `Cosign` · `OpenSSF`
 
 **Platform Engineering**  
-`Forgejo` · `Nomad`
+`GitHub Actions` · `Forgejo` · `Nomad`
 
 ---
 
