@@ -24,9 +24,9 @@
 
 ## What I do
 
-I'm a **security engineer** with a research-first mindset and an eye for where trust breaks down.
+I'm a **security engineer** with a research first mindset, aiding in securing open source software.
 
-My work focuses on the intersection of **software supply chain security, secrets management, endpoint security, and real-world threat behavior**.
+My work focuses on the intersection of **software supply chain security, application security, and cloud security**.
 
 I focus on:
 
