@@ -82,7 +82,7 @@ I focus on:
 </p>
 
 **Software Supply Chain Security**  
-`Syft` · `Grype` · `OSV-Scanner` · `Cosign` · `OpenSSF`
+`Syft` · `Grype` · `OSV-Scanner` · `Cosign` · `OpenSSF`, `Bearer`
 
 **Platform Engineering**  
 `GitHub Actions` · `Forgejo` · `Nomad`
